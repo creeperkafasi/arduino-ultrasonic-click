@@ -10,7 +10,7 @@ Probably would work with other versions but i didn't test it.
 -pyautogui (For simulating keyboard/mouse)
 
 ## Circuit diagram and arduino stuff
-I'll ad this part later. I'm just too lazy to add it rn
+I'll add this part later. I'm just too lazy to add it rn
 
 # Usage
 -Make the project  
